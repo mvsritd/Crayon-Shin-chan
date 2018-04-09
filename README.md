@@ -1,1 +1,2 @@
-Online Steganographic encoder/decoder
+# loginPage
+It  containing all the login,register and home with MYSQLi databasa
